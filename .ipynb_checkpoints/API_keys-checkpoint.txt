@@ -1,0 +1,8 @@
+key_5 = 'ARdlyGW4CP3ieM4Mv65rvFqCmj9VcXdu4q8XkMsL9MPUlApOQjMiJQQJ99BIACYeBjFXJ3w3AAABACOGasxL'
+endpoint_5 = "https://cabitzaus.openai.azure.com/openai/deployments/gpt-5-nano"
+
+
+key4 = "ARdlyGW4CP3ieM4Mv65rvFqCmj9VcXdu4q8XkMsL9MPUlApOQjMiJQQJ99BIACYeBjFXJ3w3AAABACOGasxL"
+endpoint4 = "https://cabitzaus.openai.azure.com/openai/deployments/o4-mini" #/chat/completions?api-version=2025-01-01-preview"
+
+keyL = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEifQ.eyJpc3MiOiJodHRwczovL2FpLWZhY3RvcnkuZmFzdHdlYi5pdCIsInN1YiI6InVuaW1pYiIsInRlbmFudCI6ImJhc2Vwb2QxIiwibmFtZXNwYWNlIjoibmltLWxsYW1hLTMtMy03MGItZnA4IiwiaWF0IjoxNzYyMjcxMTA2LCJleHAiOjE3NzI0MDk2MDB9.ZmFudGFzdGljand0"
