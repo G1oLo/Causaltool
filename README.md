@@ -18,7 +18,7 @@ Finally, the **third team** consists of a single-agent setup, in which one LLM i
 ## 📂 Struttura della cartella
 
 ```text
-IPMU
+Causaltool
 ├── INSURANCE.ipynb/
 │   └── python notebook with the code to run the teams
 ├── Results.ipynb
