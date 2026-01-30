@@ -18,16 +18,20 @@ Finally, the **third team** consists of a single-agent setup, in which one LLM i
 ## 📂 Struttura della cartella
 
 ```text
-nome-progetto/
-├── src/
-│   └── ...
-├── data/
-│   └── ...
-├── docs/
-│   └── ...
-├── tests/
-│   └── ...
+IPMU
+├── INSURANCE.ipynb/
+│   └── python notebook with the code to run the teams
+├── Results.ipynb
+│   └── Python Notebook with the analysis of the resutls 
+├── results1.xlsx and results2.xlsx
+│   └── excel document with the results of the questionnaire
+├── text_utils.py
+│   └── python file with some function for the agent's dialogue
 ├── README.md
-└── requirements.txt
-
+└── Boxplot_teams.png, Boxplot_task.png, Boxplot_metriche_bis.png and Boxplot_metriche.png
+│   └── Figures
+```
 ## Authors
+
+Gloria Lopiano, Andre Campagner, Marco Pasqualini, Davide Ciucci
+
